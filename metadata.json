@@ -1,0 +1,8 @@
+{
+  "name": "Scrapling - Adaptive Web Scraping & Parser Platform",
+  "description": "An interactive studio and playground for Scrapling — the adaptive web scraping, stealth fetching, and resilient DOM parsing framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
